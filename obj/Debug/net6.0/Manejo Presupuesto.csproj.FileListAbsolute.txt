@@ -1,0 +1,110 @@
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\bin\Debug\net6.0\appsettings.json
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\bin\Debug\net6.0\Manejo Presupuesto.staticwebassets.runtime.json
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\bin\Debug\net6.0\Manejo Presupuesto.exe
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\bin\Debug\net6.0\Manejo Presupuesto.deps.json
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\bin\Debug\net6.0\Manejo Presupuesto.runtimeconfig.json
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\bin\Debug\net6.0\Manejo Presupuesto.dll
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\bin\Debug\net6.0\Manejo Presupuesto.pdb
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\Manejo Presupuesto.csproj.AssemblyReference.cache
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\Manejo Presupuesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\Manejo Presupuesto.AssemblyInfoInputs.cache
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\Manejo Presupuesto.AssemblyInfo.cs
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\Manejo Presupuesto.csproj.CoreCompileInputs.cache
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\Manejo Presupuesto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\Manejo Presupuesto.RazorAssemblyInfo.cache
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\Manejo Presupuesto.RazorAssemblyInfo.cs
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\scopedcss\bundle\Manejo Presupuesto.styles.css
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\scopedcss\projectbundle\Manejo Presupuesto.bundle.scp.css
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\Manejo Presupuesto.dll
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\refint\Manejo Presupuesto.dll
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\Manejo Presupuesto.pdb
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\Manejo Presupuesto.genruntimeconfig.cache
+C:\Users\zerpa\OneDrive\Escritorio\Manejo Presupuesto\obj\Debug\net6.0\ref\Manejo Presupuesto.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\appsettings.json
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Manejo Presupuesto.staticwebassets.runtime.json
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Manejo Presupuesto.exe
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Manejo Presupuesto.deps.json
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Manejo Presupuesto.runtimeconfig.json
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Manejo Presupuesto.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Manejo Presupuesto.pdb
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.csproj.AssemblyReference.cache
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.AssemblyInfoInputs.cache
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.AssemblyInfo.cs
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.csproj.CoreCompileInputs.cache
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.RazorAssemblyInfo.cache
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.RazorAssemblyInfo.cs
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\bundle\Manejo Presupuesto.styles.css
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\projectbundle\Manejo Presupuesto.bundle.scp.css
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\refint\Manejo Presupuesto.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.pdb
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.genruntimeconfig.cache
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\ref\Manejo Presupuesto.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Dapper.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\Manejo Presupuesto.csproj.CopyComplete
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\Irony.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\zerpa\OneDrive\Escritorio\ManejoPresupuesto\bin\Debug\net6.0\XLParser.dll
